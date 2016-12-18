@@ -11,3 +11,8 @@ Released under MIT License
 Copyright (c) 2016 Richard Cook
 
 [stack]: https://haskellstack.org/
+
+~~~ {.haskell}
+main :: IO ()
+main = putStrLn "Done"
+~~~
