@@ -5,9 +5,5 @@ script_dir=$(cd $(dirname $0); pwd -P)
 
 repo_dir=$(dirname $script_dir)
 
-temp_ifs=$IFS
-IFS=$' '
-export $(cat $repo_dir/.env | xargs)
-IFS=$temp_ifs
 cd $repo_dir
-python -m grip
+python -m grip $*
