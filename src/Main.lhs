@@ -124,7 +124,7 @@ main =
 
 Released under MIT License
 
-Copyright (c) 2016 Richard Cook
+Copyright &copy; 2016 Richard Cook
 
 [anonymousfunctions]: https://github.com/rcook/beginning-practical-haskell/blob/master/part02.md#anonymous-functions-and-lambda-abstraction
 [scopedtypevars]: https://wiki.haskell.org/Scoped_type_variables
