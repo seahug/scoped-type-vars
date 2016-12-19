@@ -2,7 +2,7 @@ name:                 scoped-type-vars
 version:              0.1.0.0
 synopsis:             Simple, clean project template using MIT License by default
 description:          Please see README.md
-homepage:             https://github.com/rcook/scoped-type-vars#readme
+homepage:             https://github.com/seahug/scoped-type-vars#readme
 license:              MIT
 license-file:         LICENSE
 author:               Richard Cook
@@ -14,7 +14,7 @@ cabal-version:        >= 1.10
 
 source-repository head
   type:               git
-  location:           https://github.com/rcook/scoped-type-vars.git
+  location:           https://github.com/seahug/scoped-type-vars.git
 
 executable scoped-type-vars
   hs-source-dirs:     src
